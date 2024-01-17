@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SKALTRONGIGEON
+- 👋 Hi, I’m @SKALTRONGIDEON
 - 👀 I’m interested in TECHNOLOGY 
 - 🌱 I’m currently learning Machine
 - 💞️ I’m looking to collaborate on bot development 
